@@ -26,19 +26,19 @@ The data transformation involved the following steps:
 ![Main Dashboard](SS/main_dashboard.png)
 
 ### 2️⃣ World Cup Winner Chart
-![World Cup Winner Chart](ss/worldcup_winner_chart.png)
+![World Cup Winner Chart](SS/worldcup_winner_chart.png)
 
 ### 3️⃣ Attended Countries
-![Attended Countries](ss/attended_countries.png)
+![Attended Countries](SS/attended_countries.png)
 
 ### 4️⃣ Data Transformation - Cleaning
-![Data Cleaning](ss/data_cleaning.png)
+![Data Cleaning](SS/data_cleaning.png)
 
 ### 5️⃣ Data Transformation - Structuring
-![Data Structuring](ss/data_structuring.png)
+![Data Structuring](SS/data_structuring.png)
 
 ### 6️⃣ Data Transformation - Modeling
-![Data Modeling](ss/data_modeling.png)
+![Data Modeling](SS/data_modeling.png)
 
 ## 📥 Download the Power BI File
 [Click here to download the .pbix file](Presentation/Fifa_world_cup_Analysis.pbix)
