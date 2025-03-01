@@ -23,7 +23,7 @@ The data transformation involved the following steps:
 
 ## 🖼️ Screenshots
 ### 1️⃣ Main Dashboard
-![Main Dashboard](ss/main_dashboard.png)
+![Main Dashboard](SS/main_dashboard.png)
 
 ### 2️⃣ World Cup Winner Chart
 ![World Cup Winner Chart](ss/worldcup_winner_chart.png)
